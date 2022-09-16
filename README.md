@@ -1,6 +1,10 @@
-
-
 #  BMI Calculator
+
+## Portrait
+<img src="images/Home.PNG" width=600px;>
+
+## Landscape
+<img src="images/Result.PNG" width=600px;>
 
 ## Our Goal
 
