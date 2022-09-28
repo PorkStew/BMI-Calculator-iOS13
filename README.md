@@ -9,7 +9,7 @@ bmi = weight / (height * height)
 - MVC Design Pattern
 - StoryBoards
 - UIKit
-- Creating a linking multiple View Controllers
+- Creating and linking multiple View Controllers
 - Creating and linking IBOutlets and IBActions
 - Creating and mutating structs
 - Creating functions
