@@ -1,4 +1,20 @@
 #  BMI Calculator
+An app designed to calculate a persons BMI(Body Mass Index), by using the users weight and height. Once the calculate button is tapped, it then calculates the BMI based on the following forumla.
+
+bmi = weight / (height * height)
+
+*The reason we height * height is to get the squared root of height.
+
+### What was learnt
+- MVC Design Pattern
+- StoryBoards
+- UIKit
+- Creating a linking multiple View Controllers
+- Creating and linking IBOutlets and IBActions
+- Creating and mutating structs
+- Creating functions
+- Optional Values
+- If statements
 
 ## Portrait
 <img src="images/Home.PNG" width=600px;>
